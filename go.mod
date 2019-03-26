@@ -1,1 +1,1 @@
-module github.com/logutil
+module github.com/log
