@@ -1,1 +1,1 @@
-module gitlab.dy/logutil
+module github.com/logutil
