@@ -1,1 +1,1 @@
-module github.com/log
+module github.com/lxj15398019970/log
